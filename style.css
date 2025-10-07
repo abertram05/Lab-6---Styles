@@ -27,6 +27,16 @@ h3 {
     color: pink;
 }
 
+li {
+    font-size: 10px;
+    color: black;
+}
+
+ol {
+    font-size: 10px;
+    color: black;
+}
+
 p { 
     font-size: 10px;
     color: black;
