@@ -28,17 +28,17 @@ h3 {
 }
 
 li {
-    font-size: 10px;
+    font-size: 20px;
     color: black;
 }
 
 ol {
-    font-size: 10px;
+    font-size: 20px;
     color: black;
 }
 
 p { 
-    font-size: 10px;
+    font-size: 20px;
     color: black;
 }
 
@@ -48,8 +48,8 @@ p {
 }
 
 .highlight {
-    background-color: black;
-    border-left: 10px solid pink;
+    background-color: white; 
+    border: 10px solid pink;
     padding: 10px; 
-    font-size: 10px;
+    font-size: 20px;
 }
