@@ -38,7 +38,8 @@ p {
 }
 
 .highlight {
-    background-color: lightgray;
-    border-left: 4px solid pink;
+    background-color: black;
+    border-left: 10px solid pink;
     padding: 10px; 
+    font-size: 10px;
 }
