@@ -48,7 +48,7 @@ p {
 }
 
 .highlight {
-    background-color: lightgray;
+    background-color: white; 
     border: 10px solid pink;
     padding: 10px; 
     font-size: 20px;
