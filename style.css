@@ -1,7 +1,7 @@
 body {
-    font-family: Arial, sans-serif; 
+    font-family: sans-serif
     background-color: grey; 
-    color: brown;
+    color: pink;
     margin: 0; 
     padding: 0; 
 }
@@ -11,4 +11,27 @@ body {
     margin: 0 auto;
     background-color: white;
     padding: 20px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p { 
+    font-size: 30px;
+}
+
+#main-title {
+    text-align: center;
+    color: blue;
+}
+
+.highlight {
+    background-color: grey;
+    border-left: 4px solid black;
+    padding: 10px; 
 }
