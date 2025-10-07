@@ -18,27 +18,27 @@ h1 {
 }
 
 h2 {
-    font-size: 30px;
+    font-size: 35px;
     color: pink;
 }
 
 h3 {
-    font-size: 24px;
+    font-size: 30px;
     color: pink;
 }
 
 li {
-    font-size: 20px;
+    font-size: 25px;
     color: black;
 }
 
 ol {
-    font-size: 20px;
+    font-size: 25px;
     color: black;
 }
 
 p { 
-    font-size: 20px;
+    font-size: 25px;
     color: black;
 }
 
@@ -48,7 +48,7 @@ p {
 }
 
 .highlight {
-    background-color: white; 
+    background-color: lightgray;
     border: 10px solid pink;
     padding: 10px; 
     font-size: 20px;
