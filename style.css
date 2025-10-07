@@ -14,22 +14,22 @@ body {
 
 h1 {
     font-size: 50px;
-    color: gray;
+    color: black;
 }
 
 h2 {
-    font-size: 40px;
-    color: gray;
+    font-size: 30px;
+    color: pink;
 }
 
 h3 {
-    font-size: 30px;
+    font-size: 24px;
     color: pink;
 }
 
 p { 
     font-size: 10px;
-    color: pink;
+    color: black;
 }
 
 #main-title {
